@@ -1,0 +1,16 @@
+artifact_uri: file:///root/projects/PythonProjects/learning-machine-learning-models/tools/mlflow/mlruns/216735303135488445/34b74dc26273415a91558a4aac035952/artifacts
+deleted_time: 1670416684289
+end_time: 1670414070936
+entry_point_name: ''
+experiment_id: '216735303135488445'
+lifecycle_stage: deleted
+run_id: 34b74dc26273415a91558a4aac035952
+run_name: run_1
+run_uuid: 34b74dc26273415a91558a4aac035952
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670414069533
+status: 3
+tags: []
+user_id: root
